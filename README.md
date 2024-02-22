@@ -19,7 +19,7 @@
   <h2 align="center">⚡ Estatisticas ⚡</h2>
 
   <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=samuxka&show_icons=true&count_private=true&hide_border=true&title_color=00ccff&icon_color=1c4966&text_color=c9d1d9&bg_color=0d1117" alt="Samuxka github stats" /> 
+  <img width="49%" height="195px" src="https://github.com/werik-alves/Pizzaria/blob/main/assets/image/home_pizza.png" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuxka&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
 </div>
 
