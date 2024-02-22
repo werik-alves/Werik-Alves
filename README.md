@@ -8,7 +8,7 @@
   
 🧑 Tenho 24 anos
 <br>
-🛠 Trabalho altuamente com T.i atuando na área de Suporte
+🛠 Trabalho atualmente com T.i atuando na área de Suporte
 <br>
 📚 Tenho vasto conhecimento com Front-end e UI&UX
 <br>
