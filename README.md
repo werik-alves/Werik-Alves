@@ -11,19 +11,21 @@
 🛠 Trabalho altuamente com T.i atuando na área de Suporte
 <br>
 📚 Tenho vasto conhecimento com Front-end e UI&UX
+<br>
+✨ 
 
 </div>
 
 <div align="center">
 
-  <h2 align="center">⚡ Estatisticas ⚡</h2>
+  <h2 align="center">⚡ Projetos e UI & UX ⚡</h2>
 
   <div align="center">  
-  <img width="49%" height="195px" src="https://github.com/werik-alves/Pizzaria/blob/main/assets/image/home_pizza.png" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuxka&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github.com/werik-alves/Pizzaria/blob/main/assets/image/home_pizza.png" /><br>
+ 
 </div>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuxka&bg_color=0d1117&color=225566&line=1c4966&point=00ccff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <!-- Pode colocar uma imagem ilustrativa. -->
   
 </div>
 
