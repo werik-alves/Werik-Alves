@@ -1,10 +1,10 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi+Pessoal!+👋;+Eu+sou+o+Werik+Alves👨‍💻!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oi+Pessoal!+👋;+Eu+sou+o+Werik+Alves👨‍💻!;"/>
 </h1>
 
 <div align="center">
 
-## ✨ Resumo ✨
+ <p style="color: #00FFFF;">## ✨ Resumo ✨ </p>
   
 🧑 Tenho 24 anos
 <br>
