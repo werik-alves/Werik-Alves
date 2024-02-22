@@ -4,7 +4,7 @@
 
 <div align="center">
 
- <p style="color: #00FFFF;">## ✨ Resumo ✨ </p>
+## ✨ Resumo ✨
   
 🧑 Tenho 24 anos
 <br>
@@ -12,7 +12,7 @@
 <br>
 📚 Tenho vasto conhecimento com Front-end e UI&UX
 <br>
-✨ 
+✨ <span style="color:red;">Este texto será vermelho</span>
 
 </div>
 
@@ -32,7 +32,7 @@
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,vscode,github,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,next,vscode,github,git" />
 </div>
 
   ##
