@@ -4,9 +4,8 @@
 
 <div align="center">
 
-## ✨ Resumo ✨
-
-### ✨Werik Alves: A Jornada do Desenvolvedor Apaixonado <br>
+### ✨ Resumo ✨
+### ✨Werik Alves: A Jornada do Desenvolvedor Apaixonado✨ <br>
 #### Quem Sou Eu? <br>
 Olá, sou Werik Alves, um entusiasta da tecnologia e um apaixonado por programação. Com meus 24 anos de idade, mergulhei fundo no mundo do desenvolvimento, explorando cada linha de código com curiosidade e determinação <br>
 #### O Primeiro Passo <br>
