@@ -12,8 +12,7 @@
 <br>
 📚 Tenho vasto conhecimento com Front-end e UI&UX
 <br>
-✨ <span style="color:red;">Este texto será vermelho</span>
-
+### ✨Werik Alves: A Jornada do Desenvolvedor Apaixonado <br>
 </div>
 
 <div align="center">
