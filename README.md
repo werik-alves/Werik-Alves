@@ -5,14 +5,19 @@
 <div align="center">
 
 ## ✨ Resumo ✨
-  
-🧑 Tenho 24 anos
-<br>
-🛠 Trabalho atualmente com T.i atuando na área de Suporte
-<br>
-📚 Tenho vasto conhecimento com Front-end e UI&UX
-<br>
+
 ### ✨Werik Alves: A Jornada do Desenvolvedor Apaixonado <br>
+#### Quem Sou Eu? <br>
+Olá, sou Werik Alves, um entusiasta da tecnologia e um apaixonado por programação. Com meus 24 anos de idade, mergulhei fundo no mundo do desenvolvimento, explorando cada linha de código com curiosidade e determinação <br>
+#### O Primeiro Passo <br>
+Minha jornada começou quando eu tinha apenas 10 anos. Lembro-me de um curso introdutório que me apresentou ao nosso querido HTML. Naquela época, eu não fazia ideia de como essa linguagem simples se tornaria a base do meu futuro. Afinal, o que poderia ser mais mágico do que transformar linhas de texto em páginas interativas? <br>
+#### Explorando Além das Fronteiras <br>
+Após concluir o curso, decidi explorar outras áreas, mas nada me cativou como a tecnologia. Aos 21 anos, retornei à programação com uma paixão renovada. Foi quando me especializei em front-end. Essa área não apenas me permitiu criar soluções para clientes, mas também mergulhar nas profundezas das interfaces visuais. Cada pixel ganhou vida, e eu estava no meu elemento. <br>
+#### O Sonho do Desenvolvedor de Jogos <br>
+Mas minha jornada não parou por aí. Meu objetivo final? Tornar-me um grande desenvolvedor de jogos. Os desenhos e os jogos sempre me fascinaram. Agora, estou trilhando o caminho para criar mundos virtuais, personagens cativantes e experiências imersivas. Quero que meus jogos inspirem, desafiem e tragam alegria aos jogadores. <br>
+#### A Paixão que Move Montanhas <br>
+Hoje, sou movido pela paixão. Cada linha de código que escrevo é uma expressão do meu amor pela programação. Seja criando um site elegante ou resolvendo um problema complexo, estou no meu elemento. E, assim como o Everest, estou subindo, um passo de cada vez, em direção ao topo dos meus sonhos.
+
 </div>
 
 <div align="center">
