@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-<a href="https://github.com/werik-alves">
+<!-- <a href="https://github.com/werik-alves" -->
   <h2 align="center">⚡ Projetos e UI & UX ⚡</h2>
 
   <div align="center">  
@@ -25,7 +25,7 @@
 
   <h2 align="center"> ⚡ Estatíticas ⚡</h2>  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werik-alves&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=werik-alves&hide=contribs,prs&layout=compact&hide_border=true&title_color=00ccff&text_color=fff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=werik-alves&show_icons=true&hide=contribs,prs&layout=compact&hide_border=true&title_color=00ccff&text_color=fff&bg_color=0d1117" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=werik-alves&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&layout=compact&hide_border=true&title_color=00ccff&text_color=fff&bg_color=0d1117" />
    
   </div>
