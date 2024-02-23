@@ -20,14 +20,28 @@
 <!-- <a href="https://github.com/werik-alves" -->
   <h2 align="center">⚡ Projetos e UI & UX ⚡</h2>
 
-  <div align="center">  
+  <div align="center"> 
+    
   <img width="49%" height="195px" src="https://github.com/werik-alves/Pizzaria/blob/main/assets/image/home_pizza.png" /><br>
 
   <h2 align="center"> ⚡ Estatíticas ⚡</h2>  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=werik-alves&layout=compact&hide_border=true&title_color=00ccff&text_color=225566&bg_color=0d1117" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=werik-alves&show_icons=true&hide=contribs,prs&layout=compact&hide_border=true&title_color=00ccff&text_color=fff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=werik-alves&show_icons=true&hide=contribs,prs&layout=compact&hide_border=true&title_color=00ccff&text_color=fff&bg_color=0d1117&theme=radical" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=werik-alves&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&layout=compact&hide_border=true&title_color=00ccff&text_color=fff&bg_color=0d1117" />
-   
+<!--    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" /> <br> -->
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=werik-alves&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=werik-alves&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  </picture>
+
   </div>
 
  <!-- Pode colocar uma imagem ilustrativa. -->
