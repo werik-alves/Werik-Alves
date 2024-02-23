@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-<a href="">
+<a href="https://github.com/werik-alves">
   <h2 align="center">⚡ Projetos e UI & UX ⚡</h2>
 
   <div align="center">  
